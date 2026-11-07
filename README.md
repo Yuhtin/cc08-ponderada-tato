@@ -6,6 +6,8 @@ Análise técnica e decisão de CTO sobre a pulseira sensorial Tato, com o códi
 
 O documento da entrega é [`ponderada/ponderada-tato.md`](ponderada/ponderada-tato.md).
 
+Atividade bônus no Colab: [pipelines e paralelismo](https://colab.research.google.com/drive/1Q0tV1KXpDZUSuS1X0oPXCfUGBVscTtT0).
+
 ## Como rodar a questão A4
 
 É preciso ter Python 3, sem instalar nenhuma dependência. Primeiro, entre na pasta do código:
